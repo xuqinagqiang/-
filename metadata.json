@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 智能润滑管理系统",
+  "description": "一个智能设备润滑管理系统，追踪润滑周期，生成每日计划，并提供AI辅助维护建议。",
+  "requestFramePermissions": []
+}
